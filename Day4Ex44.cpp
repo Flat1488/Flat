@@ -1,3 +1,6 @@
+/*
+Input random N and Output reverce N
+*/
 #include <conio.h>
 #include <stdio.h>
 void f(int n)
