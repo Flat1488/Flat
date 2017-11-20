@@ -1,3 +1,6 @@
+/*
+U`ve bases and heights of two isosceles trapezoids. Find the sum of their perimeters.
+*/
 #include <iostream>
 #include <math.h>
 using namespace std;
