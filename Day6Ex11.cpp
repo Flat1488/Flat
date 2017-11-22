@@ -7,7 +7,7 @@ Dan fajl s tekstom na russkom, vibrat` simvoli kotorie vstrechajutsa 1 raz.
 using namespace std;
 int main()
 {
-    std::string text = "abbcdde";
+    std::string text = "dsfgertwertgkjhoiweriocviuwer111jdfh8321";
     for (std::string::iterator it = text.begin(); it != text.end(); ++it) 
     {
         if (std::count(text.begin(), text.end(), *it) == 1)
